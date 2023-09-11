@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Leandro Dias</h1>
 <h3 align="left">A passionate web developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-leandrodias&label=Profile%20views&color=0e75b6&style=flat" alt="dev-leandrodias" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrocodedev&label=Profile%20views&color=0e75b6&style=flat" alt="leandrocodedev" /> </p>
 
 
 
@@ -26,18 +26,24 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Design Patterns,DDD, TDD, ReactJs, VueJs, Docker**
 
-- 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS, PHP, YII2
+- 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS, PHP, YII2, Laravel, VueJs, Docker
 
 
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Vuejs](https://img.shields.io/badge/Vue.js-05122A.svg?style=flat&logo=vuedotjs)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-05122A.svg?style=flat&logo=laravel)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A.svg?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
+
+
+
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -56,6 +62,9 @@ Here are some ideas to get you started:
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p>
-<a href="https://linkedin.com/in/leandro-s-dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-s-dias" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.leandrodias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.leandrodias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leandrocodedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-s-dias" height="30" width="40" /></a>
+<a href="https://instagram.com/leandrocodedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.leandrodias" height="30" width="40" /></a>
+<a href="https://twitter.com/leandrocodedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
+<a href="https://fb.com/leandrocodedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
+<a href="https://discord.gg/FDCbSn7V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
 </p>
